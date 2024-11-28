@@ -1,0 +1,3 @@
+/home/ivan/Projects/cpp_rendering/cmake-build-debug/CMakeFiles/cpp_rendering.dir
+/home/ivan/Projects/cpp_rendering/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/Projects/cpp_rendering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
